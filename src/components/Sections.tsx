@@ -1,0 +1,8 @@
+export { Hero } from "./sections/Hero"
+export { Philosophy } from "./sections/Philosophy"
+export { Kitchen } from "./sections/Kitchen"
+export { Spaces } from "./sections/Spaces"
+export { About } from "./sections/About"
+export { Careers } from "./sections/Careers"
+export { Visit } from "./sections/Visit"
+export { Footer } from "./sections/Footer"
