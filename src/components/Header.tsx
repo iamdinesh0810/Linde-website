@@ -51,7 +51,7 @@ export function Header({
       className={`site-header${scrolled ? " site-header--scrolled" : ""}`}
     >
       <a className="wordmark" href="#top" aria-label="Restaurant Linde">
-        <img src="/images/linde-official.png" alt="" />
+        <img src="/images/linde-transparent.png" alt="" />
       </a>
       <nav
         className={`nav${menuOpen ? " nav--open" : ""}`}

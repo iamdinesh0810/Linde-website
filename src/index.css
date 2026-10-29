@@ -44,7 +44,7 @@ svg { width: 1.15rem; fill: none; stroke: currentColor; stroke-linecap: round; s
 .header-reserve:hover svg { transform: translateX(.3rem); }
 .menu-button { display: none; }
 
-.brand-intro { position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; overflow: hidden; background: #10281a; animation: intro-away 1.05s cubic-bezier(.76,0,.24,1) 2.3s forwards; }
+.brand-intro { position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; overflow: hidden; background: #142419; animation: intro-away 1.05s cubic-bezier(.76,0,.24,1) 2.3s forwards; }
 .brand-intro__mark { position: relative; width: clamp(13rem,24vw,20rem); opacity: 0; transform: translateY(1.5rem) scale(.94); animation: intro-mark 1s cubic-bezier(.2,.7,.2,1) .25s forwards; }
 .brand-intro__mark img { position: relative; z-index: 1; width: 100%; }
 .brand-intro__mark span { position: absolute; right: 16%; bottom: 7%; left: 16%; z-index: 2; height: 1px; overflow: hidden; background: rgba(249,239,166,.22); }

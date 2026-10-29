@@ -9,7 +9,7 @@ export function Footer({ t, onReserve }: ReserveProps) {
   return (
     <footer>
       <div className="footer-brand">
-        <img src="/images/linde-official.png" alt="Restaurant Linde" />
+        <img src="/images/linde-transparent.png" alt="Restaurant Linde" />
         <p>{t.footerClaim}</p>
       </div>
       <div className="footer-links">

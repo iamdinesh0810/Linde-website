@@ -89,7 +89,7 @@ export default function App() {
     <main>
       <div className="brand-intro" aria-hidden="true">
         <div className="brand-intro__mark">
-          <img src="/images/linde-official.png" alt="" />
+          <img src="/images/linde-transparent.png" alt="" />
           <span />
         </div>
       </div>
